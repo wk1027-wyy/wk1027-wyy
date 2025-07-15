@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [你的名字]  
+# 👋 Hi, I'm [LinYuChe]  
 **Android & Flutter Developer | Java/Kotlin/Dart Expert**  
 
 💻 **Tech Stack**  
