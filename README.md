@@ -10,7 +10,7 @@
 
 📊 **GitHub Stats**  
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=wk1027-wyy&show_icons=true&theme=radical)](https://github.com/wk1027-wyy)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wk1027-wyy&layout=compact&hide=html,css)](https://github.com/wk1027-wyy)
+
 
 
 
