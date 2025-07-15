@@ -9,13 +9,11 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
 📊 **GitHub Stats**  
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical)](https://github.com/你的用户名)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&hide=html,css)](https://github.com/你的用户名)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=wk1027-wyy&show_icons=true&theme=radical)](https://github.com/wk1027-wyy)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wk1027-wyy&layout=compact&hide=html,css)](https://github.com/wk1027-wyy)
 
-📌 **Featured Projects**  
-- [项目1名称](链接) - 简短描述  
-- [项目2名称](链接) - 简短描述  
+
 
 📫 **Contact Me**  
-[![Email](https://img.shields.io/badge/Email-你的邮箱-D14836?style=flat&logo=gmail)](mailto:你的邮箱)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-你的LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/你的LinkedIn)
+[![Email](https://img.shields.io/badge/Email-linyuchewk@gmail.com-D14836?style=flat&logo=gmail)](mailto:linyuchewk@gmail.com)
+
